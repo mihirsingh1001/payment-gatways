@@ -10,7 +10,8 @@
     <link rel="stylesheet" type="text/css" href="css/createuser.css">
 </head>
 
-<body style="background-color : #82E0AA;">
+<body style="background-color : #bbf0f3;
+background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);">
 <?php
     include 'config.php';
     if(isset($_POST['submit'])){
@@ -72,7 +73,7 @@
   </div>
 </div>
 <footer class="text-center mt-5 py-2">
-            <p>&copy 2021. Made by <b>AYUSH PRAJAPATI</b> <br> Ayush Prajapati Foundation</p>
+            <p>&copy 2021. Made by <b>MIHIRSINGH BAIS</b> <br>WEB DEVELOPER :- THE SPARKS FOUNDATION</p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
